@@ -1,4 +1,4 @@
-# Sorting-Visualize
+# Sorting-Visualizer
 
 This sorting visualizer was inspired by Tim Ruscica (https://twitter.com/TechWithTimm?s=20). First version consists of Bubble Sort and Insertion Sort in ascending or descending order:
 
